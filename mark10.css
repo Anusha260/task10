@@ -1,0 +1,55 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    width: 100 vw;
+    font-family: 'segoe UI', Tahoma, Geneva, verdana, sans-serif;
+    font-size: 18px;
+    text-align: center;
+}
+
+body {
+    text-align: center;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn: ANd 9GcQ 6Mgh HMYpfdUrB 8wFtSG;");
+    background-color: lightpink;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+label {
+    color: black;
+    padding: 1rem;
+    margin: 1rem;
+}
+
+label:hover {
+    background-color: lightgoldenrodyellow
+}
+
+button {
+    border: 3px solid rgb(240, 28, 127);
+    color: black;
+    padding: 1rem;
+    border-color: rgb(161, 111, 163)
+}
+
+button:hover {
+    background-color: rgb(180, 124, 173)
+}
+
+input {
+    border: 3px solid rgb(240, 28, 127);
+    margin: 1rem;
+    padding: 1rem;
+    background-color: rgb(116, 185, 182);
+}
+
+table {
+    text-align: center;
+}
+
+style {
+    text-align: center;
+}
